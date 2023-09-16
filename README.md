@@ -3,7 +3,7 @@ Bot will copy trades from main account to all your other accounts on crypto exch
 Brought to you for free by www.deficlerk.com
 
 # Installation
-git clone https://github.com/TraderConvoy/mirror_trader.git
+`git clone https://github.com/TraderConvoy/mirror_trader.git`
 
 **1) Install Node modules**\
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `cd admin && npm install`
