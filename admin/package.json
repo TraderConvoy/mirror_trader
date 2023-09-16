@@ -4,7 +4,8 @@
   "description": "Alt accounts follow each trade master account does on crypto exchanges.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+  	"start": "node app.js"
   },
   "author": "Uros Tadic",
   "license": "ISC",
